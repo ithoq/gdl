@@ -1,7 +1,5 @@
-gdl
-===
-
 Ganesha Digital Library
+===
 
 This not actually my creation, original url is http://kmrg.itb.ac.id/
 
